@@ -65,3 +65,10 @@ document.getElementById('seta-voltar').addEventListener('click', function (event
     loadContent(contador);
   }
 });
+
+//4bimestre
+import { verifyToken } from "../utils/verify-token.js"
+
+const url = "../login/login.html"
+
+verifyToken(url)

@@ -105,6 +105,10 @@ main p {
     color: #000;
 }
 
+.user p {
+    margin-left: 35px;
+}
+
 .name {
     font-family: 'Inter';
     font-weight: bold;
